@@ -12,7 +12,7 @@ import json
 import requests
 
 
-print('Loading your AI personal assistant - Ashraf')
+print('Loading your AI personal assistant - G One')
 
 engine=pyttsx3.init('sapi5')
 voices=engine.getProperty('voices')
